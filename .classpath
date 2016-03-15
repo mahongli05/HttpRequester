@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="lib" path="E:/work/library/httpcomponents-client-4.5.2/org.apache.httpcomponents.httpclient_4.5.2.jar" sourcepath="E:/work/library/httpcomponents-client-4.5.2/httpclient/src/main/java"/>
+	<classpathentry kind="lib" path="E:/work/library/httpcomponents-core-4.4.4/lib/httpcore-4.4.4.jar" sourcepath="E:/work/library/httpcomponents-core-4.4.4/httpcore/src/main/java"/>
+	<classpathentry kind="lib" path="E:/work/library/gson/gson-2.3.1.jar" sourcepath="E:/work/library/gson/gson-2.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/work/library/apache/commons-codec-1.10/commons-codec-1.10.jar" sourcepath="E:/work/library/apache/commons-codec-1.10/commons-codec-1.10-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/work/library/apache/commons-codec-1.10/commons-codec-1.10-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/work/library/apache/commons-logging-1.2/commons-logging-1.2.jar" sourcepath="E:/work/library/apache/commons-logging-1.2-src/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
